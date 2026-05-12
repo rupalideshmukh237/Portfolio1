@@ -81,6 +81,16 @@ function Work() {
                             </div>
 
                         </div>
+                         <div className="card-container">
+                            <div className="card">
+                                <img src="https://decor24.in/wp-content/uploads/2025/05/DSC_03222-1024x684.webp" alt="" />
+                                <h3>Website <span>Decore</span></h3>
+                                <div className="btn">
+                                    <button> <a href='https://rupalideshmukh237.github.io/Decore/'>Preview</a></button>
+                                    <button> <a href='https://github.com/rupalideshmukh237/Decore'>Github</a></button>
+                                </div>
+                            </div>
+</div>
                     </div>
                 </div>
                 <Footer />
